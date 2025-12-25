@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx @11ty/eleventy",
-    "build-ghpages": "npx @11ty/eleventy --pathprefix=/how2academia_website/",
+    "build-ghpages": "npx @11ty/eleventy --pathprefix=/how2academia_website/"
   },
   "keywords": [],
   "author": "",
